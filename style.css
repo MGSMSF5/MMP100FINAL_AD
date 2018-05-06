@@ -1,0 +1,36 @@
+
+body{
+	background-color: white;
+	margin: 50px
+	}
+h1{
+	font-family: Avenir;
+	color: black;
+	font-size: 50px
+	}
+p{
+	background-color: lightgray;
+    text-align: left;
+    margin: right;
+    font-family: Avenir;
+    font-size: 20px
+ }
+h2{
+	font-family: Avenir;
+	color: black;
+	font-size: 50px
+	margin:center;
+	text-align:center;
+	}
+a{
+	color: black;
+	font-family: Avenir;
+	margin: 25px
+	}
+div{
+	font-family: Avenir;
+	color: black;
+	text-align: center;
+	font-size: 12px
+	}
+
